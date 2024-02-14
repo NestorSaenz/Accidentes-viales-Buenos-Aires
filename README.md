@@ -68,7 +68,10 @@ Las funciones empleadas se pueden visualizar en: [KPI_2](imagenes/kpi_2.png)
 3. Reducir en un 5% la cantidad de accidentes que ocurren en las avenidas
 
 Se define a la cantidad de accidentes mortales en avenidas como el número absoluto de accidentes fatales que ocurrieron en avenidas en un determinado periodo de tiempo, su formula para medir la evolución es: (Número de accidentes mortales con víctimas en avenidas en el año anterior - Número de accidentes mortales con víctimas en avenidas en el año actual) / (Número de accidentes mortales con víctimas en avenidas en el año anterior) * 100
-Las funciones empleadas se pueden visualizar en:  [KPI_1](imagenes/kpi_3.png)
+Las funciones empleadas se pueden visualizar en:  [KPI_3](imagenes/kpi_3.png)
+
+Despues del revisar los hallazgos se hacen las siguientes recomendaciones: ![Imagen](imagenes/atencion.jpg)
+
 
 
 
