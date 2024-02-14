@@ -46,6 +46,8 @@ Descifrar los lugares donde hay mas incidencias permite personalizar estrategias
 
 Todas las graficas se pueden visualizar en [EDA](EDA.ipynb) 
 
+una vez limpios los datos se exportan a la herramienta de visualizacion ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+
 
 
 
