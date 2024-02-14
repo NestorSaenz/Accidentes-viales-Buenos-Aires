@@ -46,8 +46,14 @@ Descifrar los lugares donde hay mas incidencias permite personalizar estrategias
 
 Todas las graficas se pueden visualizar en [EDA](EDA.ipynb) 
 
-una vez limpios los datos se exportan a la herramienta de visualizacion ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+Una vez limpios los datos se exportan a la herramienta de visualizacion ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+donde a traves de graficos, indicadores, KPI's e puede hacer un `storytelling` para la audiencia involucrada en gestionar la prevencion de muertes por accidentes de transito, y tener la informacion para poder tomar desiciones.
 
+## KPI
+
+En este apartado se consideran 3 KPI's
+
+* Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
 
 
 
