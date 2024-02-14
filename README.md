@@ -3,3 +3,27 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 
+# PI_2_DATA_ANALYST_POWER_BI
+
+Este proyecto simula el rol de un ***Data Analyst*** para el  `Observatorio de Movilidad y Seguridad Vial` (OMSV) centro de estudios que se encuentra bajo la órbita de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires, Para ello, se cuenta con un dataset sobre homicidios en siniestros viales durante el period 2016-2021 acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. se puede descargar de la siguiente página Web [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+
+## Objetivo
+
+El objetivo es hacer un análisis de los datos disponibles, con el fin de generar información que le permita a las autoridades tomar medidas de prevencion y disminuir la tasa de accidentes fatales quer actualemte es de `11 personas por día`.
+
+## Contexto
+
+Actualemnte la muerte por accidentes de transito es la primera causa de muerte violenta en el pais, es mas probable morir de un siniestro vial que por un acto delictivo, de ahi la importancia de generar medidas de prevencion
+
+## Elaboracion del proyecto
+
+La data se extrae de dos archivos formato xlsx: 
+
+*  ** HECHOS.xlsx * información relacionada con la data fisica del accidente. Por ejemplo: la fecha, lugar del hecho, tipo de vehiculos involucrados, latitud y longitud, acusado del hecho entre otras.
+
+*  ** VICTIMAS.xlsx * Informacion relacionada con la victima. Por ejemplo: sexo, edad, rol de la victima y fecha de fallecimiento.
+
+## ETL
+Se extrae la informacion con pandas y se empieza la transformacion, en este notebook se hace un merged con los dos datasets previamente cargados y se comienzan las transformaciones: normalizacion de columnas, verificacion de los tipos de datos, algunos datos por ejemplo de franja horaria donde no hay datos se sustituyen por la moda del conjunto de datos, para visualizar el ETL hacer click en [ETL](ETL.ipynb)
+
+
