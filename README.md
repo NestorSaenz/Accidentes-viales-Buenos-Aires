@@ -32,6 +32,7 @@ Se extrae la informacion con pandas y se empieza la transformacion, en este note
 La exploracion de los datos comienza con un análisis descriptivo, donde se visualiza metricas estadisticas como, la media, desviacion estandar y distribucion por percentiles de los datos, el análisis se basa en tres pilares:
 
 # Analisis por victima
+
 El siguiente paso es comenzar a análizar caracteristicas de las victimas que pueden influir o estan relacionadas con el riesgo de tener un accidente fatal como la edad y  genero, graficamente se visualiza que el género masculino tiene un 76% de probabilidad de morir en carretera con un rango etario de [25-41] años
 
 
