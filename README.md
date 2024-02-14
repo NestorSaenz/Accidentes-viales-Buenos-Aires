@@ -27,13 +27,13 @@ La data se extrae de dos archivos formato xlsx:
 
 Se extrae la informacion con pandas y se empieza la transformacion, en este notebook se hace un merged con los dos datasets previamente cargados y se comienzan las transformaciones: normalizacion de columnas, verificacion de los tipos de datos, algunos datos por ejemplo de franja horaria donde no hay datos se sustituyen por la moda del conjunto de datos, para visualizar el ETL hacer click en [ETL](ETL.ipynb)
 
-### EDA (Analisis exploratorio de los datos)
+## EDA (Analisis exploratorio de los datos)
 
 La exploracion de los datos comienza con un análisis descriptivo, donde se visualiza metricas estadisticas como, la media, desviacion estandar y distribucion por percentiles de los datos, el análisis se basa en tres pilares:
 
-# Analisis por victima
+### Analisis por victima
 
-El siguiente paso es comenzar a análizar caracteristicas de las victimas que pueden influir o estan relacionadas con el riesgo de tener un accidente fatal como la edad y  genero, graficamente se visualiza que el género masculino tiene un 76% de probabilidad de morir en carretera con un rango etario de [25-41] años
+En este paso se exploran caracteristicas de las victimas que pueden influir o estan relacionadas con el riesgo de tener un accidente fatal como la edad y  genero, graficamente se visualiza que el género masculino tiene un 76% de probabilidad de morir en carretera con un rango etario de [25-41] años.
 
 
 
