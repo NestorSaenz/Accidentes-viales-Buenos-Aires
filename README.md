@@ -71,6 +71,7 @@ Se define a la cantidad de accidentes mortales en avenidas como el número absol
 Las funciones empleadas se pueden visualizar en:  [KPI_3](imagenes/kpi_3.png)
 
 ![Imagen](imagenes/atencion..jpg)
+<p align='center'>
 <div align="center">
 Despues del revisar los hallazgos se hacen las siguientes recomendaciones: 
 
