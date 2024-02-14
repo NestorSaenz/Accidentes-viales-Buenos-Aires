@@ -57,18 +57,18 @@ En este apartado se consideran 3 KPI's los cuales fueron desarrollados en su tot
  
 Se define la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
 
-Para desarrollarlo se pretende evaluar el segundo semestre  con respecto al primero desde el año 2016 hadsta el año 2021, se define  los calculos matematicos se desarrollan por medio de funciones DAX desde Power BI, las funciones empleadas se pueden visualizar en: ![KPI_1](imagenes/kpi_1.png)
+Para desarrollarlo se pretende evaluar el segundo semestre  con respecto al primero desde el año 2016 hadsta el año 2021, se define  los calculos matematicos se desarrollan por medio de funciones DAX desde Power BI, las funciones empleadas se pueden visualizar en: [KPI_1](imagenes/kpi_1.png)
 
 
 2. Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
 Se define a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
-Las funciones empleadas se pueden visualizar en: ![KPI_2](imagenes/kpi_2.png)
+Las funciones empleadas se pueden visualizar en: [KPI_2](imagenes/kpi_2.png)
 
 3. Reducir en un 5% la cantidad de accidentes que ocurren en las avenidas
 
 Se define a la cantidad de accidentes mortales en avenidas como el número absoluto de accidentes fatales que ocurrieron en avenidas en un determinado periodo de tiempo, su formula para medir la evolución es: (Número de accidentes mortales con víctimas en avenidas en el año anterior - Número de accidentes mortales con víctimas en avenidas en el año actual) / (Número de accidentes mortales con víctimas en avenidas en el año anterior) * 100
-Las funciones empleadas se pueden visualizar en:  ![KPI_1](imagenes/kpi_3.png)
+Las funciones empleadas se pueden visualizar en:  [KPI_1](imagenes/kpi_3.png)
 
 
 
