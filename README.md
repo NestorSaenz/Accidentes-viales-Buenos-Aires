@@ -27,7 +27,7 @@ La data se extrae de dos archivos formato xlsx:
 
 Se extrae la informacion con pandas y se empieza la transformacion, en este notebook se hace un merged con los dos datasets previamente cargados y se comienzan las transformaciones: normalizacion de columnas, verificacion de los tipos de datos, algunos datos por ejemplo de franja horaria donde no hay datos se sustituyen por la moda del conjunto de datos, para visualizar el ETL hacer click en [ETL](ETL.ipynb)
 
-## EDA (Analisis exploratorio de los datos)
+### EDA (Analisis exploratorio de los datos)
 
 La exploracion de los datos comienza con un análisis descriptivo, donde se visualiza metricas estadisticas como, la media, desviacion estandar y distribucion por percentiles de los datos, el análisis se basa en tres pilares:
 
