@@ -19,7 +19,7 @@ La muerte por accidentes de tránsito es la primera causa de muerte violenta en 
 
 La data se extrae de dos archivos formato xlsx:  
 
-*  **HECHOS.xlsx*   información relacionada con la data física del accidente. Por ejemplo: la fecha, lugar del hecho, tipo de vehículos involucrados, latitud y longitud, acusado del hecho entre otras.
+*  **HECHOS.xlsx*   Información relacionada con la data física del accidente. Por ejemplo: la fecha, lugar del hecho, tipo de vehículos involucrados, latitud y longitud, acusado del hecho entre otras.
 
 *  **VICTIMAS.xlsx*   Información relacionada con la víctima. Por ejemplo: sexo, edad, rol de la víctima y fecha de fallecimiento.
 
@@ -83,7 +83,7 @@ Después del revisar los hallazgos se hacen las siguientes recomendaciones:
 
 2. Imponer multas más severas a los infractores, incluyendo peatones.
 
-3. Educar a los conductores sobre las consecuencias de la conducción irresponsable y 	promover hábitos de seguridad vial.
+3. Educar a los conductores sobre las consecuencias de la conducción irresponsable y promover hábitos de seguridad vial.
 
 4. Tolerancia de alcoholemia cero en sangre en los retenes policiales
 
