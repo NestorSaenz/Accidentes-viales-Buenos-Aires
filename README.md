@@ -19,9 +19,9 @@ La muerte por accidentes de tránsito es la primera causa de muerte violenta en 
 
 La data se extrae de dos archivos formato xlsx:  
 
-*  **HECHOS.xlsx* información relacionada con la data física del accidente. Por ejemplo: la fecha, lugar del hecho, tipo de vehículos involucrados, latitud y longitud, acusado del hecho entre otras.
+*  **HECHOS.xlsx*  información relacionada con la data física del accidente. Por ejemplo: la fecha, lugar del hecho, tipo de vehículos involucrados, latitud y longitud, acusado del hecho entre otras.
 
-*  **VICTIMAS.xlsx* Información relacionada con la víctima. Por ejemplo: sexo, edad, rol de la víctima y fecha de fallecimiento.
+*  **VICTIMAS.xlsx*  Información relacionada con la víctima. Por ejemplo: sexo, edad, rol de la víctima y fecha de fallecimiento.
 
 ## ETL (extracción, transformación y carga)
 
