@@ -73,15 +73,25 @@ Las funciones empleadas se pueden visualizar en:  [KPI_3](imagenes/kpi_3.png)
 
 <div align="center">
 
-## ¡ATENCIÓN!
-
 ![Imagen](imagenes/atencion..jpg)
 
 </div>
 
 Despues del revisar los hallazgos se hacen las siguientes recomendaciones: 
 
+1. Implementar mas controles y dispositivos electrónicos para monitorear el limite de velocidad en avenidas.
 
+2. Imponer multas mas severas a los infractores, incluyendo peatones.
+
+3. Educar a los conductores sobre las consecuencias de la conducción irresponsable y 	promover hábitos de seguridad vial.
+
+4. Tolerancia de alcoholemia cero en sangre en los retenes policiales
+
+5. Mejorar la calidad de la infraestructura vial, tales como señalización y iluminación.
+
+
+
+Los esfuerzos conjuntos entre gobiernos, organismos de seguridad vial y ciudadanos podrían contribuir a reducir la cantidad de accidentes viales en las avenidas de Buenos Aires.
 
 
 
