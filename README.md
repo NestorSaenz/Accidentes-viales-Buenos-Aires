@@ -44,7 +44,7 @@ Aqui se pretende evaluar como se distribuye la cantidad de víctimas por: mes, f
 
 Descifrar los lugares donde hay mas incidencias permite personalizar estrategias para prevenir muertes en carretera, despues del analisis se evidencia que los sitios criticos son: las avenidas donde ocurren el 62% de los accidentes, donde la numero uno es la avenida General Paz, y por comuna la [1, 4, 9, 8].
 
-Todas las graficas se pueden visualizar en [EDA](EDA.ipynb)
+Todas las graficas se pueden visualizar en [EDA](EDA.ipynb) 
 
 
 
