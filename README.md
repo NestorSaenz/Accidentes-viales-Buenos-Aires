@@ -17,7 +17,7 @@ La muerte por accidentes de tránsito es la primera causa de muerte violenta en 
 
 ## Elaboración del proyecto
 
-La data se extrae de dos archivos formato xlsx: 
+La data se extrae de dos archivos formato xlsx:  
 
 *  **HECHOS.xlsx* información relacionada con la data física del accidente. Por ejemplo: la fecha, lugar del hecho, tipo de vehículos involucrados, latitud y longitud, acusado del hecho entre otras.
 
