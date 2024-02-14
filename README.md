@@ -74,7 +74,7 @@ Las funciones empleadas se pueden visualizar en:  [KPI_3](imagenes/kpi_3.png)
 <div align="center">
 
 ![Imagen](imagenes/atencion..jpg)
-
+## Conclusión
 </div>
 
 Despues del revisar los hallazgos se hacen las siguientes recomendaciones: 
