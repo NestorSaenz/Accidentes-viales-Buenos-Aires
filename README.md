@@ -3,7 +3,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white)
 
-# PI_2_DATA_ANALYST_POWER_BI
+# Analísis de accidentalidad en Buenos Aires Argentina
 
 Este proyecto simula el rol de un ***Data Analyst*** para el `Observatorio de Movilidad y Seguridad Vial` (OMSV) centro de estudios que se encuentra bajo la órbita de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires, Para ello, se cuenta con un dataset sobre homicidios en siniestros viales durante el period 2016-2021 acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. se puede descargar de la siguiente página Web [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 
