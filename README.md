@@ -94,4 +94,6 @@ Después del revisar los hallazgos se hacen las siguientes recomendaciones:
 Los esfuerzos conjuntos entre gobiernos, organismos de seguridad vial y ciudadanos podrían contribuir a reducir la cantidad de accidentes viales en las avenidas de Buenos Aires.
 
 
+# Dashboard
+
 
