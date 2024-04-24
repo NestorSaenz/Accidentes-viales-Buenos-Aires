@@ -96,4 +96,6 @@ Los esfuerzos conjuntos entre gobiernos, organismos de seguridad vial y ciudadan
 
 # Dashboard
 
+[KPI_3]([imagenes/kpi_3.png](https://github.com/NestorSaenz/Accidentes-viales-Buenos-Aires/blob/main/imagenes/siniestro_ultimo_copia.pbix))
+
 
